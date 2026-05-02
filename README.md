@@ -9,4 +9,4 @@ A smart web application to track electricity usage,analyze consumption,predict m
 -Budget Alerts
 -Reports and Analytics
 ## Technologies
-Python,Flask,HTML,CSS,JavaScript,SQLite,OCR
+Python,Flask,HTML,CSS,JavaScript,SQLite,OCR.
